@@ -4,8 +4,8 @@
 //     })
 // })
 
-import { get, post } from "../services/fetchPetitions.js";
-import { URL_USER } from "../JsonServer/route.js";
+import { get, post } from "./services/fetchPetitions.js";
+import { URL_USER } from "./route.js";
 
 // // localStorage (Almacenamiento en Motor de busqueda, ademas este almacenamiento sera permanente siempre y cuando no lo borre o se desisntale el programa)
 

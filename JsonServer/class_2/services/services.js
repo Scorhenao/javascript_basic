@@ -1,0 +1,1 @@
+/**Contiene toda la logica de peticiones a la bd (.json) */
